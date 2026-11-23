@@ -7,19 +7,20 @@ Welcome to my portfolio! Here, I document my relevant projects in the data field
 - [Data Analytics](#data-analytics)
 - [Data Science](#data-science)
 
-# SQL
+# SQL Projects
 
-| Project Link | Area of Analysis | Level |
-|---|---|---|
-| [Students Mental Health Analysis](https://github.com/danielsnhr/Students-Mental-Health-Analysis) | Count records, calculate averages, and identify key trends | Intermediate |
+| Project | Business Objective | SQL Skills Demonstrated | Deliverable |
+|---|---|---|---|
+| [Students Mental Health Analysis](https://github.com/danielsnhr/Students-Mental-Health-Analysis) | Explore relationships between student characteristics and mental health indicators | Aggregations, GROUP BY, filtering, descriptive statistics | Exploratory SQL analysis |
 
 ---
 
-# Data Analytics
+# Data Analytics Projects
 
-| Project Link | Area | Tools & Technologies | Project Description |
+| Project | Business Objective | Tools & Technologies | Key Deliverable |
 |---|---|---|---|
-| [Data Modeling](https://github.com/danielsnhr/Data-Modeling) | Data modeling, reporting | Power BI, Power Query, DAX | Rebuilt 23 scattered Excel tables (sales, product, supplier) into a star schema with fact and dimension tables. Shows the raw model vs. the final model and how each problem was solved. |
+| [Data Modeling](https://github.com/danielsnhr/Data-Modeling) | Consolidate 23 fragmented Excel tables into a structured star schema model for commercial reporting | Power BI, Power Query, DAX | Dimensional model with fact and dimension tables, plus before-and-after architecture documentation |
+
 
 ***
 # Data Science 
