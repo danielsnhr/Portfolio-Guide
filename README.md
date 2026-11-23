@@ -17,7 +17,7 @@ Welcome to my portfolio! Here, I document my relevant projects in the data field
 
 # Data Analytics
 
-| Project Link | Area | Libraries | Project Description |
+| Project Link | Area | Tools & Technologies | Project Description |
 |---|---|---|---|
 | [Data Modeling](https://github.com/danielsnhr/Data-Modeling) | Data modeling, reporting | Power BI, Power Query, DAX | Rebuilt 23 scattered Excel tables (sales, product, supplier) into a star schema with fact and dimension tables. Shows the raw model vs. the final model and how each problem was solved. |
 
