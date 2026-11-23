@@ -11,6 +11,7 @@ Welcome to my portfolio! Here, I document my relevant projects in the data field
 
 | Project | Business Objective | SQL Skills Demonstrated | Deliverable |
 |---|---|---|---|
+| [SQL Data Warehouse](https://github.com/danielsnhr/SQL-Data-Warehouse) | Integrate CRM and ERP data into a centralized warehouse to support reliable business reporting | T-SQL, ETL pipelines, stored procedures, data cleansing, dimensional modeling | SQL Server data warehouse with Bronze, Silver, and Gold layers |
 | [Students Mental Health Analysis](https://github.com/danielsnhr/Students-Mental-Health-Analysis) | Explore relationships between student characteristics and mental health indicators | Aggregations, GROUP BY, filtering, descriptive statistics | Exploratory SQL analysis |
 
 ---
